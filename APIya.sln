@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIya", "APIya\APIya.csproj", "{D2882BC6-12F6-4786-995D-8488D49215C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2882BC6-12F6-4786-995D-8488D49215C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2882BC6-12F6-4786-995D-8488D49215C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2882BC6-12F6-4786-995D-8488D49215C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2882BC6-12F6-4786-995D-8488D49215C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C128226-2A95-4FE1-B457-3F32147214C2}
+	EndGlobalSection
+EndGlobal
